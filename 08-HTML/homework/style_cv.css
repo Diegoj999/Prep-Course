@@ -1,0 +1,30 @@
+html{
+    display: flex;
+    justify-content: center;
+}
+.font_titles{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#img_perfil{
+    width: 150px;
+    height: 120px;
+    text-indent: 40px;
+    margin-top: 10px;
+}
+
+#divGeneral{
+    width: 400px;
+    box-shadow: 5px 5px 15px 5px silver;
+    padding: 50px;
+}
+
+.linea {
+    border-top: 1px solid black;
+    height: 2px;
+    max-width: 450px;
+    padding: 0;
+    margin: 20px auto 0 auto;
+  }

@@ -1,18 +1,23 @@
+html{
+    display: flex;
+    justify-content: center;
+}
+#firstDiv{
+    
+}
+
 h1{
     color: silver;
 
 }
 img{
-    height: 400px;
-    width: 400px;
+    height: 600px;
+    width: 600px;
 }
-.thirDiv{
+#thirDiv{
     width: 600px;
     height: 500px;
-    background-color: aqua;
     padding: 50px;
-    border-color: aquamarine;
-    border-style: solid;
 }
 #spanID{
     font-size: 18px;
